@@ -38,7 +38,7 @@ Tim High is a software developer with over 20 years of experience, and has been 
  - [Github profile](https://github.com/Venryx)
 
 ### Oz Fraier
-![oz](https://scontent.ftlv2-1.fna.fbcdn.net/v/t1.0-9/30441443_10213449093274014_6868113208402509824_n.jpg?_nc_cat=0&oh=5cb8c05b96fa4541692d437af6db83cd&oe=5BAD0D5D)
+![oz](https://bit.ly/2Ipg48A)
 > Born in Israel, I grew up in a country that is characterized by many ongoing political and social problems that are difficult to solve, also known as [Wicked Problems](https://en.wikipedia.org/wiki/Wicked_problem).
 On the other hand, almost everyone here has strong opinions about the cause of the problem and the needed solution.
 I believe that the opinions and insights of each and every person count, 
